@@ -8,11 +8,13 @@
 
 * ```fatal: Not a git repository (or any of the parent directories): .git ``` への対応
 
-1. <https://qiita.com/gosairei1207/items/701b7ae494b96db0f9a1>
+  1. <https://qiita.com/gosairei1207/items/701b7ae494b96db0f9a1>
 
-2. <https://qiita.com/TkTkTkTkTako/items/2400864e5f12ba70dc6d>
+  2. <https://qiita.com/TkTkTkTkTako/items/2400864e5f12ba70dc6d>
 
 
 * ```README/md```を作成するためのマークダウン法に関して．
-1. <https://codechord.com/2012/01/readme-markdown/>
-2. <https://laraweb.net/surrounding/7477/>
+
+  1. <https://codechord.com/2012/01/readme-markdown/>
+
+  2. <https://laraweb.net/surrounding/7477/>
